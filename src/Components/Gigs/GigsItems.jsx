@@ -1,7 +1,7 @@
 import { useEffect, useState, useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { httpGetData } from '../../lib/request';
-import noAvatar from '../../assets/noAvatar.jpeg';
+import noAvatar from '../../assets/noavatar.jpeg';
 import LoadingSpinner from '../../UI/LoadingSpinner';
 
 const GigsItems = (props) => {
