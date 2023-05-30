@@ -4,7 +4,7 @@ import Home from './Components/Home/Home';
 import Navbar from './Components/Header/Navbar';
 import Gigs from './Pages/Gigs';
 import AddNewGig from './Pages/AddNewGig';
-import Gig from './Pages/gig';
+import Gig from './Pages/Gig';
 import MessagesPage from './Pages/MessagesPage';
 import MessagePage from './Pages/MessagePage';
 import OrdersPage from './Pages/OrdersPage';
