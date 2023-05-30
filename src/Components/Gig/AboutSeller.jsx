@@ -1,7 +1,7 @@
 import React, { Fragment, useState, useEffect, useContext } from 'react';
 import { httpGetData } from '../../lib/request';
 import LoadingSpinner from '../../UI/LoadingSpinner';
-import noAvatar from '../../assets/noAvatar.jpeg';
+import noAvatar from '../../assets/noavatar.jpeg';
 import FiverrContext from '../../store/fiverrContext';
 
 const AboutSeller = (props) => {
